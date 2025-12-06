@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-[\* co-author]
+Please find my latest presentation below [\* co-author]
 - Department of Accountancy and Finance Seminar Series *(University of Otago, 2019)*
 - \[Synthesis\] One Planet Sovereign Wealth Funds Research Forum *(Paris, 2020)*\*
 - The 1st CEFGroup Climate Finance Symposium *(University of Otago, 2020)*
