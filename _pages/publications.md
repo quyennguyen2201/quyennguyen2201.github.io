@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
+
+You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=2b4ZT18AAAAJ&hl=en}">my Google Scholar profile</a>.</u>
+
 1. Cox, S. C., Ettema, M. H., Chambers, L. A., Stephens, S. A., Bodeker, G. E., **Nguyen, Q.**, Diaz-Rainey, I., & Moore, A. B. (2025). [Empirical models of shallow groundwater and multi-hazard flood forecasts as sea-levels rise](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024EF004977). Earth’s Future, 13(2), e2024EF004977.
 
    `Knowledge of coastal hydrogeology and hazards as groundwater responds to sea-level rise (SLR) can be improved through installation of shallow groundwater monitoring piezometers and continuous observations. Interpolation of site data enables mapping of the present-day state of groundwater elevation, depth to groundwater (DTW), their temporal statistical variation, and differing spatial responses to tides and rainfall. Future DTW and its variability can be projected under increments of SLR, with assumptions and caveats, to show where and when episodic and/or permanent inundation can be expected. This methodology is outlined in a case study of Dunedin, New Zealand, which enabled comparison of rising groundwater's contribution to pluvial flooding and groundwater emergence with coastal inundation. Changes in relative land exposure with SLR shows evolution in flood hazard from current pluvial-dominated events, into “flooding from below” and groundwater emergence, in advance of any overland coastal inundation. Dunedin exemplifies how groundwater transfers effects of SLR surprisingly far inland, but the lowest-lying or shoreline-proximal suburbs are not necessarily the most vulnerable. Unlike coastal inundation, rising groundwater is unconstrained by protective topography and presents as a creeping hazard, or contributor to hazards such as pluvial flooding, which can be widespread, occurring already and difficult to defend against. The empirical models contain assumptions and uncertainties important to the veracity of results and application. While conservative (“risk averse”) and a compromise from computationally expensive numerical solutions, their value is in providing the spatial and temporal precision needed for multi-source hazard assessment and holistic adaptive planning.`
