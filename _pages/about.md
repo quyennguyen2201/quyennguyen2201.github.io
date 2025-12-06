@@ -20,7 +20,7 @@ Prior to the graduate program, I have five years of working experience in insura
 
 `Data science` is my passion. I am aspired to apply machine learning algorithm and data analytic techniques in the decision making process. Recently, I developed my interest in GIS modelling as I am enthusiastic about using geospatial data to study the evoluation of the Earth's system. I also tried `Large Language Models` to automate the analysis of climate risk disclosures. Outside of my work, I learnt to write codes and build algorithms from scratch.  
 
-I am also interested in mentoring the next generation of junior researchers on the topics of climate economics and climate finance. In the past few years, I have involved in a few research projects where I helped MsC and PhD students on technical modelling.   
+In `Research`, I am driven by curiosity, seeking new understanding rather than striving for perfection. I am also interested in mentoring the next generation of junior researchers on the topics of climate economics and climate finance. In the past few years, I have involved in a few research projects where I helped MsC and PhD students on technical modelling.   
 
 ---
 <p float="left">
