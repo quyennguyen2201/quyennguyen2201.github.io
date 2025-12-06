@@ -93,7 +93,7 @@ language models and their alignment to TCFD framework.
 * **Miscellaneous**: `Agent based modelling` `Spatial modelling`
 
 ## Services & Leadership
-* **NZCleantech Mission** (Dunedin, New Zealand),        *Climate Economist Researcher* | August 2025 – Present
-* **Southern Heritage Trust** (Dunedin, New Zealand),    *Financial Volunteer Consultant* | March 2018 – February 2023
-* **Nonviolent Peaceforce** (Minnesota, United States),  *Financial Volunteer Consultant* | June  2014 - October 2014
+* **NZCleantech Mission** (Dunedin, New Zealand),        *Climate Economist Researcher*,  August 2025 – Present
+* **Southern Heritage Trust** (Dunedin, New Zealand),    *Financial Volunteer Consultant*,  March 2018 – February 2023
+* **Nonviolent Peaceforce** (Minnesota, United States),  *Financial Volunteer Consultant*, June  2014 - October 2014
 
