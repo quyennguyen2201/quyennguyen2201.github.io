@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<sub>*Please refer to my latest CV here*</sub>
 {% raw %}
 <button onclick="window.open('https://drive.google.com/file/d/1wuqiHaKRuW1B0oqafYQsWRiBNok3zeG-/view?usp=sharing')">
   Download
@@ -28,7 +27,8 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;B.S. International Business Economics, 2010
 
 
-## Experience
+## Working Experience
+---
 **Earth Sciences New Zealand** (Dunedin, New Zealand)\
 &nbsp;&nbsp;&nbsp;*Climate Economist*, September 2023 - February 2024 (part-time) |  February 2024 - now (full-time) 
   * Developed a Python-based macro-economic model with CGE features to quantify the economic costs of sea-level
@@ -87,12 +87,14 @@ language models and their alignment to TCFD framework.
  
 
 ## Technical Skills
+---
 * **Programming Languages**: `Python` `SAS` `R` `STATA` `ArcGIS` `NetLogo` 
 * **Data Analysis**: `Machine learning` `Econometric analysis` `Credit risk modelling` `Financial stress testing`  `Risk assessment`
 * **Finance Modelling & Equity Research**: `Bloomberg` `Facset` `DataStream` `Thomson Reuters Eikon`
 * **Miscellaneous**: `Agent based modelling` `Spatial modelling`
 
 ## Services & Leadership
+---
 * **NZCleantech Mission** (Dunedin, New Zealand),        *Climate Economist Researcher*,  August 2025 – Present
 * **Southern Heritage Trust** (Dunedin, New Zealand),    *Financial Volunteer Consultant*,  March 2018 – February 2023
 * **Nonviolent Peaceforce** (Minnesota, United States),  *Financial Volunteer Consultant*, June  2014 - October 2014
