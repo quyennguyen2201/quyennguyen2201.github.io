@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 {% raw %}
-<button onclick="window.open('https://drive.google.com/uc?export=download&id=YOUR_FILE_ID')">
+<button onclick="window.open('https://drive.google.com/file/d/1wuqiHaKRuW1B0oqafYQsWRiBNok3zeG-/view?usp=sharing')">
   Download
 </button>
 {% endraw %}
