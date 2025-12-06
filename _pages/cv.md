@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-*Please refer to my latest CV here* 
 {% raw %}
 <button onclick="window.open('https://drive.google.com/file/d/1wuqiHaKRuW1B0oqafYQsWRiBNok3zeG-/view?usp=sharing')">
   Download
