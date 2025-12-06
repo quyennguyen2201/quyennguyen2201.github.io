@@ -23,7 +23,7 @@ Prior to the graduate program, I have five years of working experience in insura
 I am also inspired to mentor new students on the topics of climate economics and climate finance. In the past few years, I have involved in a few research projects where I helped MsC and PhD students on technical modelling.   
 
 <p float="left">
-  <img src="../images/ESNZLogo.png" width="120" />
-  <img src="../images/UoOLogo.png" width="120" />
+  <img src="../images/ESNZLogo.png" width="300" />
+  <img src="../images/UoOLogo.png" width="300" />
 </p>
 
