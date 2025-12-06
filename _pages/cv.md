@@ -40,7 +40,7 @@ language models and their alignment to TCFD framework.
    * Conduct LCA and technoeconomic analyis for cleantech solutions such as residential geothermal heatpumps and low-energy, low-carbon cements.
    * Collaborate with researchers to prepare competitive proposals for public research funding and commercial projects.
 
-**University of Otago** (Dunedin, New Zealand)
+**University of Otago** (Dunedin, New Zealand)\
 &nbsp;&nbsp;&nbsp;*Honorary Research Fellow\[Climate Finance\]*,  February 2024 - now (part-time)\
 &nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  March 2021 – September 2023 (part-time) | September 2023 - February 2024 (full time) 
 * Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project 
