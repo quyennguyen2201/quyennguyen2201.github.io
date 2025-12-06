@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <u><a href="{https://scholar.google.com/citations?user=2b4ZT18AAAAJ&hl=en}">my Google Scholar profile</a>.</u>
+You can also find my latest articles on [my Google Scholar profile](https://scholar.google.com/citations?user=2b4ZT18AAAAJ&hl=en).
 
 1. Cox, S. C., Ettema, M. H., Chambers, L. A., Stephens, S. A., Bodeker, G. E., **Nguyen, Q.**, Diaz-Rainey, I., & Moore, A. B. (2025). [Empirical models of shallow groundwater and multi-hazard flood forecasts as sea-levels rise](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024EF004977). Earth’s Future, 13(2), e2024EF004977.
 
