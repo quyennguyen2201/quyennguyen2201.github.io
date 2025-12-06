@@ -57,7 +57,7 @@ Please find my latest presenation list here [\* co-author].
 -  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. Presentation to: GNS Science Seminar Series  (Dunedin & Online, July 2024) 
 -  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: Griffith Sustainable Finance Symposium (Online, August 2024)
 -  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: GREEN FINANCE RESEARCH ADVANCES (Banque de France, Paris & Online, August 2024)
--  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: The Climate and Energy Finance Group (CEF Group) Sustainable Finance and Accounting Symposium (University of Otago, Queenstown, November 2024)
+-  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: The Climate and Energy Finance Group (CEF Group) Sustainable Finance and Accounting Symposium (University of Otago, Queenstown, November 2024)  — **CFA Society Paper in Sustainable Finance**
 
 ### **2025**
 -   Pricing climate change-related flooding hazards in the Aotearoa New Zealand real estate market. Presentation to: LPG Seminar, Manaaki Whenua (Online, 27 March 2025) 
