@@ -18,6 +18,7 @@ redirect_from:
 
 []() `qnguyen2201[at]gmail.com` `+64 (27) 340 1383`
 
+---
 ## Education
 **University of Otago** (Dunedin, New Zealand)\
 &nbsp;&nbsp;&nbsp;&nbsp;Ph.D. Finance, Department of Accountancy and Finance,  2021\
