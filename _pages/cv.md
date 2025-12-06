@@ -44,9 +44,9 @@ language models and their alignment to TCFD framework.
 &nbsp;&nbsp;&nbsp;*Honorary Research Fellow  \[Climate Finance\]*,  February 2024 - now (part-time)<br>
 &nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  March 2021 – September 2023 (part-time) | September 2023 - February 2024 (full time)<br><br>
 
-◆ Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project<br>
-◆ Developed machine learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in finance. Research has been adopted and commercialised by leading industry practitioners (BNP Paribas, EMMI, NZ Superfund)<br>
-◆ Proposed and developed teaching curriculum for Master in Finance FINC499 paper “Advanced modelling of climate finance risks” / led lab sessions for School of Surveying SURV 208 paper “Introduction of Geographic Information System”
+ * Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project<br>
+ * Developed machine learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in finance. Research has been adopted and commercialised by leading industry practitioners (BNP Paribas, EMMI, NZ Superfund)<br>
+ * Proposed and developed teaching curriculum for Master in Finance FINC499 paper “Advanced modelling of climate finance risks” / led lab sessions for School of Surveying SURV 208 paper “Introduction of Geographic Information System”
 
 &nbsp;&nbsp;&nbsp;*Teaching Assistant & Private Tutor*, October 2018 - Present 
   * Acted as a teaching assistant for two tutorial sessions in 300-level class ‘Financial markets and institutions’. Prepared tutorial materials and supported students on academic problems.  
