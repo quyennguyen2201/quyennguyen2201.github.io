@@ -37,8 +37,9 @@ language models and their alignment to TCFD framework.
    * Conduct LCA and technoeconomic analyis for cleantech solutions such as residential geothermal heatpumps and low-energy, low-carbon cements
    * Collaborate with researchers to prepare competitive proposals for public research funding and commercial projects.
 
-**University of Otago** (Dunedin, New Zealand)                                                                                 
-&nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  March 2021 – February 2024 
+**University of Otago** (Dunedin, New Zealand)
+&nbsp;&nbsp;&nbsp;*Honorary Research Fellow\[Climate Finance\]*,  February 2024 - now (part-time)
+&nbsp;&nbsp;&nbsp;*Post-Doctoral Fellow \[Climate Finance\]*,  March 2021 – September 2023 (part-time) | September 2023 - February 2024 (full time) 
 * Modelled climate-change risks and established the link to property values across space and time, and the related implications for financial stability for the interdisciplinary STRAND Marsden project 
 * Developed machine learning algorithms to enhance the prediction of firm-level carbon footprints in the context of limited disclosure and increased interests of climate risk in finance. Research has been adopted and commercialised by leading industry practitioners (BNP Paribas, EMMI, NZ Superfund) 
 * Proposed and developed teaching curriculum for Master in Finance FINC499 paper “Advanced modelling of climate finance risks”/ led lab sessions for School of Surveying SURV 208 paper “Introduction of Geographic Information System” 
@@ -95,7 +96,7 @@ language models and their alignment to TCFD framework.
 * **Miscellaneous**: `Agent based modelling` `Spatial modelling`
 
 ## Services & Leadership
-**Southern Heritage Trust** (Dunedin, New Zealand)    | *Financial Volunteer Consultant* | March 2018 – Present\
+**Southern Heritage Trust** (Dunedin, New Zealand)    | *Financial Volunteer Consultant* | March 2018 – February 2023\
 **Nonviolent Peaceforce** (Minnesota, United States)  | *Financial Volunteer Consultant* | June  2014 - October 2014
-
+**NZCleantech Mission** (Dunedin, New Zealand)        | *Climate Economist Researcher* | August 2025 – Present\
 
