@@ -46,11 +46,6 @@ language models and their alignment to TCFD framework.
 * Side project 1: Analysed carbon washing activities in the United States context (collaborators: Stanford University)
 * Side project 2: Automated the extraction process of US-SEC initial public offering filings and analysed the performance of green firms (collaborators: Edinburg University and UCD Smurfit). 
 
- 
-&nbsp;&nbsp;&nbsp;*Research Assistant, Sea Level Rise Stranded Assets Project*, October 2018 - Present 
-  * Analyzed the price effect of 2015 June Flood on South Dunedin residential properties 
-  * Generated sea level rise flooding maps using Monte Carlo simulation in ArcGIS 
-
 &nbsp;&nbsp;&nbsp;*Teaching Assistant & Private Tutor*, October 2018 - Present 
   * Acted as a teaching assistant for two tutorial sessions in 300-level class ‘Financial markets and institutions’. Prepared tutorial materials and supported students on academic problems.  
   * Acted as a private tutor for 200-level classes ‘Investment analysis’ and ‘Fundamentals of corporate finance’ for the ‘Disability information and support’ center.
