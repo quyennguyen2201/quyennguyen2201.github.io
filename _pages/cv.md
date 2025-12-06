@@ -14,7 +14,7 @@ redirect_from:
 {% endraw %}
 
 
-[]() `quyen.nguyen @ postgrad.otago.ac.nz` `+64 (27) 340 1383`
+[]() `qnguyen2201[at]gmail.com` `+64 (27) 340 1383`
 
 ## Education
 **University of Otago** (Dunedin, New Zealand)\
