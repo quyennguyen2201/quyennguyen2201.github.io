@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quyen Nguyen/ Climate Economist"
+title                    : "Personal Website"
 title_separator          : "-"
 name                     : &name "Quyen Nguyen"
 description              : &description "personal description"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Quyen Nguyen"
-  avatar           : "quyen_headshot.png"
-  bio              : "Earth Sciences NZ & University of Otago"
+  avatar           : "bio-photo-3.png"
+  bio              : "Economist at Earth Sciences NZ & University of Otago"
   location         : "New Zealand"
   employer         :
   pubmed           : 
