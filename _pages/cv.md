@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<sub>*Please refer to my latest CV here*</sub>
 {% raw %}
 <button onclick="window.open('https://drive.google.com/file/d/1wuqiHaKRuW1B0oqafYQsWRiBNok3zeG-/view?usp=sharing')">
   Download
@@ -92,7 +93,7 @@ language models and their alignment to TCFD framework.
 * **Miscellaneous**: `Agent based modelling` `Spatial modelling`
 
 ## Services & Leadership
-**Southern Heritage Trust** (Dunedin, New Zealand)    | *Financial Volunteer Consultant* | March 2018 – February 2023\
-**Nonviolent Peaceforce** (Minnesota, United States)  | *Financial Volunteer Consultant* | June  2014 - October 2014\
-**NZCleantech Mission** (Dunedin, New Zealand)        | *Climate Economist Researcher* | August 2025 – Present\
+* **Southern Heritage Trust** (Dunedin, New Zealand)    | *Financial Volunteer Consultant* | March 2018 – February 2023\
+* **Nonviolent Peaceforce** (Minnesota, United States)  | *Financial Volunteer Consultant* | June  2014 - October 2014\
+* **NZCleantech Mission** (Dunedin, New Zealand)        | *Climate Economist Researcher* | August 2025 – Present\
 
