@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Please find my latest presenation list here [\* co-author]. 
+Please find my latest presentation list here, with some selected talks by my co-authors [\*]. 
 
 ### **2018**
 - Predicting corporate carbon footprint for climate risk analysis - A machine learning approach. In: The 12th OERC Energy & Climate Change Symposium *(University of Otago, 2018)*
