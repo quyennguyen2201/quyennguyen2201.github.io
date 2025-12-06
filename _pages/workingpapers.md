@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+Please note that some of my co-authored working papers have not been published as a pre-print due to publication reasons. Therefore, if you are interest in reading an early version of these papers, please contact me via the email in the main page. 
 
 ____________________________________________________________________________________________________________________________________________________________________
 #### Bodeker, G., Cox, S., Diaz-Rainey, I., Moore A. B, Nguyen, Q., Thorsnes. P., (2022). Sources of Uncertainty in Asset-Level Modelling of Change-Related Flooding Risk to Residential Property Values. STRAND Project Working Paper. ####
