@@ -34,7 +34,7 @@ rise and coastal flooding at national and regional levels.
 hazards using NPV analysis and geospatial methods.
    * Analyse the scientific quality of climate-risk disclosures by New Zealand reporting entities using APIs and large
 language models and their alignment to TCFD framework.
-   * Conduct LCA and technoeconomic analyis for cleantech solutions such as residential geothermal heatpumps and low-energy, low-carbon cements
+   * Conduct LCA and technoeconomic analyis for cleantech solutions such as residential geothermal heatpumps and low-energy, low-carbon cements.
    * Collaborate with researchers to prepare competitive proposals for public research funding and commercial projects.
 
 **University of Otago** (Dunedin, New Zealand)
