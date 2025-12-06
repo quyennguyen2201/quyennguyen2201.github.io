@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 {% raw %}
-<button onclick="window.open('/files/Quyen%20Nguyen_Resume%2008022020.pdf')">Download</button>
+<button onclick="window.open('https://drive.google.com/uc?export=download&id=YOUR_FILE_ID')">
+  Download
+</button>
 {% endraw %}
 
 
