@@ -16,8 +16,8 @@ Please find my latest presenation list here [\* co-author].
 - Predicting corporate carbon footprint for climate risk analysis - A machine learning approach. In: Department of Accountancy and Finance Seminar Series *(University of Otago, 2019)*
 - Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Method Approach. Presentation to: The Planning Team *(Dunedin City Council, 2019)*
 - Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Method Approach. In: GIS @ Otago Symposium *(University of Otago, 2019)*
-- Predicting corporate carbon footprint for climate risk analysis - A machine learning approach. In: GRASFI 2019 Conference *(University of Oxford, 2019)* — **shortlisted for the UBS Innovative Methods Prize**
-- Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Method Approach. In: GRASFI 2019 Conference *(University of Oxford, 2019)* — **shortlisted for the UBS Innovative Methods Prize** [Co-author presentation*]
+- Predicting corporate carbon footprint for climate risk analysis - A machine learning approach. In: The 2019 2nd  Global Research Alliance for Sustainable Finance and Investment Conference *(University of Oxford, 2019)* — **shortlisted for the UBS Innovative Methods Prize**
+- Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Method Approach. In: The 2019 2nd  Global Research Alliance for Sustainable Finance and Investment Conference*(University of Oxford, 2019)* — **shortlisted for the UBS Innovative Methods Prize** [Co-author presentation*]
 
 ### **2020**
 - Predicting corporate carbon footprint for climate risk analysis - A machine learning approach [Synthesis]. Presentation to: One Planet Sovereign Wealth Funds Research Forum *(Paris, 2020)* [Co-author presentation*]
@@ -29,20 +29,20 @@ Please find my latest presenation list here [\* co-author].
 - Climate transition risk in US loan portfolios. In: Intl. Review of Financial Analysis Special Issue Conference: *Globally Sustainable Banking & Finance* *(Belfast & Online, 2021)* *
 - In search of climate distress risk. In: The 25th Annual New Zealand Finance Colloquium *(University of Waikato, 2021)*
 - Climate transition risk in US loan portfolios. In: The 3rd JRC Summer School on Sustainable Finance *(European Commission – JRC & Online, 2021)*
-- In search of climate distress risk. In: The 4th Annual GRASFI Conference *(IIGF & CUFE & Online, 2021)*
+- In search of climate distress risk. In: The 4th Annual Global Research Alliance for Sustainable Finance and Investment Conference *(IIGF & CUFE & Online, 2021)*
 - In search of climate distress risk. In: The Green Finance Research Advances Conference *(Louis Bachelier Institute & Banque de France & Online, 2021)*
-- Scope 3 emissions. Data quality and ML prediction accuracy. Presentation to: Sustainable Finance and Investment Seminar *(Stanford University & Online, 2021)*
+- Scope 3 emissions. Data quality and ML prediction accuracy. Presentation to: Sustainable Finance and Investment Seminar *(Stanford University Precourt Institute for Energy & Online, 2021)* [Presentation with co-author*]
 
 ### **2022**
 - Scope 3 emissions. Data quality and ML prediction accuracy. Presentation to: International Association for Energy Economics Webinar *(Online, 2022)*
-- In search of climate distress risk. In: The 4th JRC Summer School on Sustainable Finance *(European Commission – JRC & Online, 2022)*
-- Scope 3 emissions. Data quality and ML prediction accuracy.The 5th Annual GRASFI Conference *(University of Zurich, 2022)* — **GRASFI Best Paper Award for Climate Finance Research**
+- Scope 3 emissions. Data quality and ML prediction accuracy. In: The 4th JRC Summer School on Sustainable Finance *(European Commission – JRC & Online, July 2022)*
+- Scope 3 emissions. Data quality and ML prediction accuracy.The 5th Annual Global Research Alliance for Sustainable Finance and Investment Conference  *(University of Zurich, 2022)* — **GRASFI Best Paper Award for Climate Finance Research**
 - Scope 3 emissions. Data quality and ML prediction accuracy. Presentation to: Banco de España Webinar *(Online, 2022)*
 - Uncertainties in modelling future flooding risks to property values. Presentation to: Center for Disaster Resilience Seminar *(University of Twente, 2022)*
 - Uncertainties in modelling future flooding risks to property values. Presentation to: The Green & Sustainable Finance & Institut Louis Bachelier Seminar *(Paris, 2022)*
 - Uncertainties in modelling future flooding risks to property values. Presentation to:  Climate Change, Insurance, Finance & Housing Workshop *(University of Auckland, 2022)* [Co-author presentation*]
 - Uncertainties in modelling future flooding risks to property values. Assembly of Investment Chairs *(Auckland, 2022)* [Co-author presentation*]
-- A climate stress test to NZ property market. Tsinghua PBCSF Green Finance Lectures *(Tsinghua University & Online, 2022)* [Co-author presentation*]
+- Climate Transition Risk: Measurement Challenges and Application in Bank Stress Testing. Tsinghua PBCSF Green Finance Lectures *(Tsinghua University & Online, 2022)* [Co-author presentation*]
 
 
 ### **2023**
@@ -56,7 +56,7 @@ Please find my latest presenation list here [\* co-author].
 -  Introduction to the STRAND project, an exploration of the sources of uncertainty, and climate stress testing. Presentation to: Climate Change Commission (February 2024) [All team presentation*]
 -  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. Presentation to: GNS Science Seminar Series  (Dunedin & Online, July 2024) 
 -  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: Griffith Sustainable Finance Symposium (Online, August 2024)
--  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: GREEN FINANCE RESEARCH ADVANCES (Banque de France, Paris & Online, August 2024)
+-  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: The 9th Green finance research advances conference (Banque de France, Paris & Online, August 2024)
 -  Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate. In: The Climate and Energy Finance Group (CEF Group) Sustainable Finance and Accounting Symposium (University of Otago, Queenstown, November 2024)  — **CFA Society Paper in Sustainable Finance**
 
 ### **2025**
