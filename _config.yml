@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.nz/citations?user=zCEcVrIAAAAJ&hl=en"
-  email            : "quyen.nguyen@otago.ac.nz"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "qnguyen2201@gmail.com"
+  researchgate     :  "https://www.researchgate.net/profile/Quyen-Nguyen-5"
   uri              :
   bitbucket        :
   codepen          :
