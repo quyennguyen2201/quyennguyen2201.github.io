@@ -11,8 +11,6 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-____________________________________________________________________________________________________________________________________________________________________
-## JOURNAL ARTICLES: ####
 1. Cox, S. C., Ettema, M. H., Chambers, L. A., Stephens, S. A., Bodeker, G. E., **Nguyen, Q.**, Diaz-Rainey, I., & Moore, A. B. (2025). [Empirical models of shallow groundwater and multi-hazard flood forecasts as sea-levels rise](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024EF004977). Earth’s Future, 13(2), e2024EF004977.
 
    `Knowledge of coastal hydrogeology and hazards as groundwater responds to sea-level rise (SLR) can be improved through installation of shallow groundwater monitoring piezometers and continuous observations. Interpolation of site data enables mapping of the present-day state of groundwater elevation, depth to groundwater (DTW), their temporal statistical variation, and differing spatial responses to tides and rainfall. Future DTW and its variability can be projected under increments of SLR, with assumptions and caveats, to show where and when episodic and/or permanent inundation can be expected. This methodology is outlined in a case study of Dunedin, New Zealand, which enabled comparison of rising groundwater's contribution to pluvial flooding and groundwater emergence with coastal inundation. Changes in relative land exposure with SLR shows evolution in flood hazard from current pluvial-dominated events, into “flooding from below” and groundwater emergence, in advance of any overland coastal inundation. Dunedin exemplifies how groundwater transfers effects of SLR surprisingly far inland, but the lowest-lying or shoreline-proximal suburbs are not necessarily the most vulnerable. Unlike coastal inundation, rising groundwater is unconstrained by protective topography and presents as a creeping hazard, or contributor to hazards such as pluvial flooding, which can be widespread, occurring already and difficult to defend against. The empirical models contain assumptions and uncertainties important to the veracity of results and application. While conservative (“risk averse”) and a compromise from computationally expensive numerical solutions, their value is in providing the spatial and temporal precision needed for multi-source hazard assessment and holistic adaptive planning.`
@@ -37,29 +35,6 @@ ________________________________________________________________________________
 
    `Corporations have come under pressure from investors and other stakeholders to disclose and reduce their greenhouse gas emissions (GHG). Corporate GHG footprints, proxying for transition risk, are dominated by carbon emissions from energy use. Thus the growing attention on the carbon emissions of corporations from, principally, their energy use, motivates firms to invest in energy efficiency and renewable energy. However, only a subset of corporations disclose their GHG/carbon footprints. This paper uses machine learning to improve the prediction of corporate carbon emissions for risk analyses by investors. We introduce a two-step framework that applies a Meta-Elastic Net learner to combine predictions from multiple base-learners as the best emission prediction approach. It results in an accuracy gain based on mean absolute error of up to 30% as compared with the existing models. We also find that prediction accuracy can be further improved by incorporating additional predictors (energy production/consumption data) and additional firm disclosures in particular sectors and regions. This provides an indication of where policymakers should concentrate their efforts for greater level of disclosure.`
 
-
-
-____________________________________________________________________________________________________________________________________________________________________
-## PRESENTATIONS [\* co-author]: ####
-- Department of Accountancy and Finance Seminar Series *(University of Otago, 2019)*
-- \[Synthesis\] One Planet Sovereign Wealth Funds Research Forum *(Paris, 2020)*\*
-- The 1st CEFGroup Climate Finance Symposium *(University of Otago, 2020)*
-- The 4th GRASFI-INSPIRE-NGFS Research Webinar *(NGFS & Online, 2021)*
-- The International Review of Financial Analysis Special Issue Conference: Globally Sustainable Banking & Finance: in support of evidence based policy making *(Belfast & Online, 2021)*\*
-- Tsinghua PBCSF Green Finance Lectures *(Tsinghua University & Online, 2022)*\*
-- Sustainable Finance and Investment Seminar *(Stanford University & Online, 2022)* 
-- The 25th Annual New Zealand Finance Colloquium *(University of Waikato, 2021)*
-- The 3rd JRC Summer School on Sustainable Finance *(European Commission - Joint Research Centre & Online, 2021)*
-- The 4th Annual GRASFI Conference *(International Institute of Green Finance & Central University of Finance and Economics & Online,  2021)*
-- The International Review of Financial Analysis Special Issue Conference: Globally Sustainable Banking & Finance: in support of evidence based policy making *(Belfast & Online, 2021)*
-- The Green Finance Research Advances Conference *(Louis Bachelier Institute & Banque de France & Online, 2021)*
-- GRASFI 2019 Conference *(University of Oxford, 2019)* - **shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize**
-- GIS @ Otago Symposium *(University of Otago, 2019)* 
-- The Planning Team *(Dunedin City Council, 2019)* 
-- The 12th OERC Energy & Climate Change Symposium *(University of Otago, 2018)*   
-- \[Synthesis\] One Planet Sovereign Wealth Funds Research Forum *(Paris, 2020)*\*
-- Department of Accountancy and Finance Seminar Series *(University of Otago, 2020)*
-- GRASFI 2019 Conference *(University of Oxford, 2019)* - **shortlisted for the Union Bank of Switzerland (UBS) Innovative Methods Prize**
 
 
 
