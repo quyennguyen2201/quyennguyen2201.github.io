@@ -15,11 +15,11 @@ ________________________________________________________________________________
 
 2. **Nguyen, Quyen.**, Diaz-Rainey, Ivan, Moore, Antoni B., Aitken, Owyn, Bodeker, Gregory E., Cox, Simon C., Paulik, Ryan, & Welsh, Rebecca. (2025, May). Coastal flooding, climate change and banking stability: A bottom-up temporospatial stress test of the domestic real estate market [Early draft, not for citation or distribution]. *STRAND Project Working Paper*.
 
-3. **Nguyen, Quyen**, Keller, Elizabeth D., Pastor-Paz, Jacob, Berhe, Daniel Teka, & Tetard, Martin. (2025, October). The impact of carbon and water cycles on farm economics in a changing climate [Early draft, not for citation or distribution].
+3. **Nguyen, Quyen**, Keller, Elizabeth D., Pastor-Paz, Jacob, Berhe, Daniel Teka, Tetard, Martin & Lao, Ling. (2025, October). The impact of carbon and water cycles on farm economics in a changing climate [Early draft, not for citation or distribution](https://drive.google.com/file/d/1ebTl7j0PDqNeg_aHJwFGv0CUdmbwZ1ld/view?usp=sharing).
 
 4.  **Nguyen, Quyen**, Diaz-Rainey, Ivan, Moore, Antoni B., Aitken, Owyn, Bodeker, Gregory E., Cox, Simon C., Paulik, Ryan, & Welsh, Rebecca. (2026). Macroeconomic modelling of climate physical risk: a dynamic equilibrium seeking approach  [Early draft, not for citation or distribution]. *Working Paper*.
    
-5. **Nguyen Quyen.**, Diaz-Rainey, Ivan, Moore Antoni, Thorsnes. P., Cox, S., McKenzie, L. & Stik-Wang L. (2019. *Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Method Approach*, [SSRN Working Paper](https://ssrn.com/abstract=3489445).  
+5. **Nguyen Quyen.**, Diaz-Rainey, Ivan, Moore Antoni, Thorsnes. P., Cox, S., McKenzie, L. & Stik-Wang L. (2019. Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Method Approach, [SSRN Working Paper](https://ssrn.com/abstract=3489445).  
 
 
 
