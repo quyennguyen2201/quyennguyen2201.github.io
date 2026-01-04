@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 2. **Nguyen, Quyen.**, Diaz-Rainey, Ivan, Moore, Antoni B., Aitken, Owyn, Bodeker, Gregory E., Cox, Simon C., Paulik, Ryan, & Welsh, Rebecca. (2025, May). Coastal flooding, climate change and banking stability: A bottom-up temporospatial stress test of the domestic real estate market [Early draft, not for citation or distribution]. *STRAND Project Working Paper*.
 
-3. **Nguyen, Quyen**, Keller, Elizabeth D., Pastor-Paz, Jacob, Berhe, Daniel Teka, Tetard, Martin & Lao, Ling. (2025, October). The impact of carbon and water cycles on farm economics in a changing climate. *[Working Paper](https://drive.google.com/file/d/1ebTl7j0PDqNeg_aHJwFGv0CUdmbwZ1ld/view?usp=sharing)*.
+3. **Nguyen, Quyen**, Keller, Elizabeth D., Pastor-Paz, Jacob, Berhe, Daniel Teka, Tetard, Martin & Liao, Ling. (2025, October). The impact of carbon and water cycles on farm economics in a changing climate. *[Working Paper](https://drive.google.com/file/d/1ebTl7j0PDqNeg_aHJwFGv0CUdmbwZ1ld/view?usp=sharing)*.
 
 4.  **Nguyen, Quyen**, Diaz-Rainey, Ivan, Moore, Antoni B., Aitken, Owyn, Bodeker, Gregory E., Cox, Simon C., Paulik, Ryan, & Welsh, Rebecca. (2026). Macroeconomic modelling of climate physical risk: a dynamic equilibrium seeking approach  [Early draft, not for citation or distribution]. *STRAND Project Work-in-Progress Paper*.
    
