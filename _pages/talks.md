@@ -7,7 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-Please find my latest presentation list here, with some selected talks by my co-authors [\*]. 
+Please find my latest presentation list here, with some selected talks by my co-authors [\*]. [All team presentation*] 
+### **2026**
+- `STRAND Project`. Presentation to: Disastrous Doctorates (Dunedin, 9&10 February 2026)   
 ### **2025**
 - `Pricing climate change-related flooding hazards in the Aotearoa New Zealand real estate market`. Presentation to: LPG Seminar, Manaaki Whenua (Online, 27 March 2025)  
 - `Extreme seas, climate change and banking stability: A bottom-up temporospatial stress test in the context of domestic real estate`. Presentation to: Reserve Bank of Australia, Climate Analysis & Policy Team Meeting, (Online, July 2025) [Presentation with co-author*]  
