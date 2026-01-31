@@ -19,7 +19,9 @@ ________________________________________________________________________________
 4.  **Nguyen, Quyen**, Diaz-Rainey, Ivan, Moore, Antoni B., Aitken, Owyn, Bodeker, Gregory E., Cox, Simon C., Paulik, Ryan, & Welsh, Rebecca. (2026). Macroeconomic modelling of climate physical risk: a dynamic equilibrium seeking approach  [Early draft, not for citation or distribution]. *STRAND Project Work-in-Progress Paper*.
    
 5. **Nguyen Quyen.**, Diaz-Rainey, Ivan, Moore Antoni, Thorsnes. P., Cox, S., McKenzie, L. & Stik-Wang L. (2019. Risk to Residential Property Values from Climate Change-Related Flooding Hazards: A Mixed Method Approach, *[SSRN Working Paper](https://ssrn.com/abstract=3489445)*.  
+____________________________________________________________________________________________________________________________________________________________________
 
+Services: Paper review for: Communication Sustainability, Climatic Change, Ecological Economics, Energy Economics, Annals of operation research, International review of financial analysis,  Scientific data
 
 
 
